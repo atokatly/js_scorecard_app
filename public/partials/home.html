@@ -1,0 +1,13 @@
+<h1>Welcome to the Golf Score Storage Home Page</h1>
+<p>
+    <a href="/#/add-score">Add a Score</a>
+</p>
+<p> Checkout all your scores below!</p>
+<ul>
+  <li ng-repeat='score in scores'><a href="/#/score/{{score._id}}">
+            {{score.course}} | {{score.score}} | {{score.date}}
+        </a>
+        <a href="/#/score/delete/{{score._id}}">
+              <i class="glyphicon glyphicon-remove"></i>
+          </a></li>
+</ul>
