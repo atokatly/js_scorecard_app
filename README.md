@@ -10,5 +10,15 @@ To try this out for yourself you will need the following.
 3. Express: To install Express simply run the following command in the terminal:
 `npm install -g express-generator`
 
-To install the dependencies, go back into the Terminal or Command Prompt and run the following commands:
+If you clone down the repo, be sure you do all of the folliwing:
+
+1: To install the dependencies, go back into the Terminal or Command Prompt and run the following commands:
 `npm install`
+
+2: Run your mongo server using the command 
+  `mongod`
+
+3: In a separate terminal tab start your server using the command
+  `nodemon`
+  
+![Alt Text]()
