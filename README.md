@@ -21,4 +21,4 @@ If you clone down the repo, be sure you do all of the folliwing:
 3: In a separate terminal tab start your server using the command
   `nodemon`
   
-![Alt Text]()
+![Alt Text](/images/Screen Shot 2017-03-05 at 4.09.25 PM.png)
