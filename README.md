@@ -23,4 +23,4 @@ If you clone down the repo, be sure you do all of the folliwing:
   
   Once the server is running you should load a page that looks like this, just without any current scores.
   
-![Alt Text](/images/Screen Shot 2017-03-05 at 4.09.25 PM.png)
+![Alt Text](https://github.com/atokatly/js_scorecard_app/blob/master/images/Screen%20Shot%202017-03-05%20at%204.09.25%20PM.png)
